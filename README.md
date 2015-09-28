@@ -1,2 +1,2 @@
 # instagram-photographer-data
-Pull instagram post data from Time's top photographers on instagram list (http://time.com/instagram50/)
+Pull Instagram post data from Time's top photographers on Instagram list (http://time.com/instagram50/)
